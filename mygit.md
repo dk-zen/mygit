@@ -5,3 +5,4 @@ Git tracks 1st change.
 Git tracks 2nd change.
 Creating a new branch is quick and simple.
 add --no-ff merge!!!!!
+test stash!
