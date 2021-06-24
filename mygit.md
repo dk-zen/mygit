@@ -5,8 +5,4 @@ Git tracks 1st change.
 Git tracks 2nd change.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
-add --no-ff merge
-=======
-Creating a new branch is quick.
-add --no-ff merge!
->>>>>>> dev
+add --no-ff merge!!
