@@ -3,6 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks 1st change.
 Git tracks 2nd change.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-add --no-ff merge!!
+add --no-ff merge!!!!!
