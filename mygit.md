@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks 1st change.
 Git tracks 2nd change.
 Creating a new branch is quick.
+add --no-ff merge
